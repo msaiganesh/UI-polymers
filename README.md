@@ -16,11 +16,7 @@ bower install -g polymer-cli
 ```
 # Setup
 
-## You can either download the .zip file from 
-
-https://github.com/mani0108/polymer-GoogleMaps
-
-## Or Clone directly from Github
+## Clone directly from Github
 ```
 git clone https://github.com/mani0108/polymer-GoogleMaps
 ```
