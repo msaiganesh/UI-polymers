@@ -14,11 +14,22 @@ npm install -g bower
 ```
 bower install -g polymer-cli
 ```
-### Cloning directly from Github
+# Setup
+
+## You can either download the .zip file from 
+
+https://github.com/mani0108/polymer-GoogleMaps
+
+## Or Clone directly from Github
 ```
 git clone https://github.com/mani0108/polymer-GoogleMaps
 ```
 ### Running the server 
+```
+- Go to the folder polymer-GoogleMaps
+- Make sure you have all the dependencies available
+```
+
 ```
 polymer serve
 ```
