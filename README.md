@@ -1,28 +1,25 @@
-# Project Title
+# Polymer-GoogleMaps
 
-One Paragraph of project description goes here
+Consists of reusable google map polymer element (my-elements/map-element) which can load a map,detect user's location,adjust accuracy etc.
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
+# Install
 What things you need to install the software and how to install them
+#Install bower
 
-```
-Give examples
-```
+npm install -g bower
 
-### Installing
+#Install polymer-cli:
 
-A step by step series of examples that tell you have to get a development env running
+bower install -g polymer-cli
 
-Say what the step will be
+###Cloning directly from Github
 
-```
-Give the example
-```
+git clone https://github.com/mani0108/polymer-GoogleMaps
+
+###Running the server locally
+
+polymer serve
 
 And repeat
 
